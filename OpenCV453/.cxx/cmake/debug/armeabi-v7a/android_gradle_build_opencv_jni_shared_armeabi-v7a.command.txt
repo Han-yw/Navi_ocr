@@ -1,0 +1,7 @@
+Executable : C:\Users\wmogi\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\github\Navi_ocr\OpenCV453\.cxx\cmake\debug\armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+
